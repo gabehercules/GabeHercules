@@ -11,9 +11,11 @@ Sou um brand designer com um pé no front-end :computer:
  <br/> Tenho base sólida em html e css e algum conhecimento em JS, e pretendo compreender mais do JavaScript afim de buscar me aventurar um pouco nessa stack.
  <br/> Estou sempre ajudando colegas com assuntos que eu possuo algum conhecimento.
 
-Versão do README: 1.2.2
 
 ## Estou aberto a novas oportunidades e conexões sempre.
 <br>gabrielsyze@gmail.com
 <br>instagram.com/bagriel_hercules
 <br>linkedin.com/in/gabrielhercules
+
+
+Versão do README: 1.2.4
