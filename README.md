@@ -13,7 +13,7 @@ Sou um brand designer com um pé no front-end :computer:
 
 Versão do README: 1.2.2
 
-Estou aberto a novas oportunidades e conexões sempre.
-gabrielsyze@gmail.com
-instagram.com/bagriel_hercules
-linkedin.com/in/gabrielhercules
+## Estou aberto a novas oportunidades e conexões sempre.
+<br>gabrielsyze@gmail.com
+<br>instagram.com/bagriel_hercules
+<br>linkedin.com/in/gabrielhercules
