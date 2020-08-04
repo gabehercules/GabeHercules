@@ -9,7 +9,7 @@ Sempre tive um foco muito maior no meu lado artístico, me dedicando a aprender 
 
 Tenho base sólida em html e css e algum conhecimento em JS, e pretendo compreender mais do JavaScript afim de buscar me aventurar um pouco nessa stack.
 
-Versão do README: 1.2.1
+Versão do README: 1.2.2
 
 Estou aberto a novas oportunidades e conexões sempre.
 gabrielsyze@gmail.com
