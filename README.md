@@ -3,7 +3,7 @@
 # Gabriel Hercules
 
 # Prazer 🤘
-Sou um brand designer com um pé no front-end :computer:
+Sou um product designer com um pé no front-end :computer:
 
  🎨 Sou designer Ui e UX **freelancer**
  <br/> Apaixonado por design em diversos meios relacionados à tecnologia. 
