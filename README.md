@@ -3,7 +3,7 @@
 # Gabriel Hercules
 
 # Hi 🤘
-I am Front End student :computer:
+I am a Dev student :computer:
 
 More to come!
 
