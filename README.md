@@ -3,9 +3,9 @@
 # Gabriel Hercules
 
 # Hi 🤘
-I am a Dev student :computer:
+I am a Dev :computer:
 
-More to come!
+That's it!
 
 
-Versão do README: 1.4
+Versão do README: 1.5
