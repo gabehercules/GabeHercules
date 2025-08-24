@@ -43,7 +43,7 @@ Costumo trabalhar com ferramentas como:
 ---
  
 > "A mente humana não busca satisfação, mas sim a próxima conquista."
-> Harari, Yuval Noah - Em Homo Deus  
+- Harari, Yuval Noah - Em Homo Deus  
 
 
-Versão do README: 2.0
+Versão do README: 2.0.1
