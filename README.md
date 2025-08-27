@@ -46,4 +46,4 @@ Costumo trabalhar com ferramentas como:
 - Harari, Yuval Noah - Em Homo Deus  
 
 
-Versão do README: 2.0.1
+Versão do README: 2.0.2
